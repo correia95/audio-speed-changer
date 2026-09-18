@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0f0d16" />
+  <text x="90" y="140" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="72" font-weight="800" fill="#ece9f4" letter-spacing="-1">Audio Speed Changer</text>
+  <text x="90" y="192" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="27" fill="#a89fc0">Speed up or slow down any audio file, 0.25x-3x</text>
+  <g>
+    <rect x="90" y="280" width="120" height="50" rx="25" fill="#221e2d" stroke="#322c40" stroke-width="2"/>
+    <text x="115" y="313" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="26" fill="#a89fc0">0.5x</text>
+    <rect x="230" y="270" width="140" height="70" rx="35" fill="#6d28d9"/>
+    <text x="260" y="313" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="30" font-weight="800" fill="#fff">1.0x</text>
+    <rect x="390" y="280" width="120" height="50" rx="25" fill="#221e2d" stroke="#322c40" stroke-width="2"/>
+    <text x="415" y="313" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="26" fill="#a89fc0">2.0x</text>
+  </g>
+  <text x="90" y="590" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="22" fill="#a89fc0">No upload · no sign-up · free</text>
+</svg>
